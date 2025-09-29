@@ -285,18 +285,6 @@ const emailLink =
 
 const navLinks = [
   {
-    id: 1,
-    name: "Lab",
-    link: "/lab",
-    icon: ImLab,
-  },
-  {
-    id: 2,
-    name: "Medium",
-    link: "https://medium.com/@rinkitadhana",
-    icon: FaMediumM,
-  },
-  {
     id: 3,
     name: "Twitter",
     link: "https://x.com/intent/follow?screen_name=damnGruz",
@@ -307,12 +295,6 @@ const navLinks = [
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/rinkitadhana",
     icon: FaLinkedinIn,
-  },
-  {
-    id: 5,
-    name: "LeetCode",
-    link: "https://leetcode.com/u/rinkitadhana",
-    icon: SiLeetcode,
   },
 ]
 
