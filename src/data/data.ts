@@ -239,44 +239,6 @@ const projects = [
   },
 ]
 
-const writings = [
-  {
-    id: 1,
-    img: "/assets/Images/writing/jwt.png",
-    head: "JWT Authentication APIs with TypeScript, Node.js, and MongoDB.",
-    des: "This blog guides you through building a JWT authentication system using TypeScript, Node.js, Express, and MongoDB. Learn to implement secure authentication, protect routes, and test APIs with Postman.",
-    link: "https://medium.com/@rinkitadhana/jwt-authentication-apis-with-typescript-node-js-and-mongodb-b05a8a3cb062",
-  },
-  {
-    id: 2,
-    img: "/assets/Images/writing/docker1.png",
-    head: "Part 1: Docker with Node.js & Express.js — Basics.",
-    des: "This blog is part one of the Docker series, and it will guide you through how to containerize your simple Node.js application at a basic level with some extra CLI commands.",
-    link: "https://medium.com/@rinkitadhana/part-1-docker-with-node-js-express-js-basics-06229c95ff7a",
-  },
-  {
-    id: 3,
-    img: "/assets/Images/writing/gsoc.png",
-    head: "My GSOC Journey: The 2-Month Sprint from Doubt to Done",
-    des: "This blog details my intense, two-month journey to cracking GSOC 2025, from nearly giving up to securing a spot through hard work, strategic learning, and crucial mentorship.",
-    link: "https://medium.com/@rinkitadhana/my-gsoc-journey-the-2-month-sprint-from-doubt-to-done-b92aee22dc1f",
-  },
-  {
-    id: 4,
-    img: "/assets/Images/writing/gsoc2.webp",
-    head: "How I almost ruined my GSoC project: My Bonding Period Journey",
-    des: "In this blog, I’ll share my journey after getting selected for GSoC, the challenges I faced while balancing exams and project work, and how I tackled the unexpected complexities of my project.",
-    link: "https://medium.com/@rinkitadhana/how-i-almost-ruined-my-gsoc-project-my-community-bonding-period-journey-9b890d6002eb",
-  },
-  {
-    id: 5,
-    img: "/assets/Images/writing/figma.png",
-    head: "Create Common Patterns in Figma Effortlessly",
-    des: "In this blog, I will share a simple and effective way to create some of the most common patterns in Figma. You'll learn how to design grid patterns and dotted grid patterns effortlessly",
-    link: "https://medium.com/@rinkitadhana/create-common-patterns-in-figma-effortlessly-grid-and-dotted-grid-patterns-43eadb877fe2",
-  },
-]
-
 const hireText =
   "I’m currently available for internships, full-time opportunities, and freelance projects. If you’re looking for someone passionate, skilled, and ready to contribute, I’m here to help bring your ideas to life!"
 
@@ -305,7 +267,6 @@ const newsText =
   "Subscribe to my newsletter to get updates on my latest projects, blogs, and news. Stay connected and be the first to know what I’m working on!"
 export {
   projects,
-  writings,
   emailLink,
   skills,
   hireText,
