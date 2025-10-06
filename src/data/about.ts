@@ -61,12 +61,6 @@ const rv_contactLink = [
   },
   {
     id: 2,
-    name: "Discord",
-    link: "https://discord.gg/JgcDzHpWum",
-    icon: FaDiscord,
-  },
-  {
-    id: 3,
     name: "Email",
     link: "mailto:therinkit@gmail.com",
     icon: MdOutlineMail,
@@ -77,19 +71,19 @@ const rv_footerLink = [
   {
     id: 1,
     name: "Mail",
-    link: "mailto:therinkit@gmail.com",
+    link: "vrahul.engineer@gmail.com",
     icon: MdOutlineMail,
   },
   {
     id: 2,
     name: "Github",
-    link: "https://github.com/rinkitadhana",
+    link: "https://github.com/meruem09",
     icon: FaGithub,
   },
   {
     id: 4,
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/rinkitadhana",
+    link: "https://www.linkedin.com/in/rahul-varma-1129a9328/",
     icon: FaLinkedinIn,
   }
 ]
