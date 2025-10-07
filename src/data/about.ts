@@ -56,13 +56,13 @@ const rv_contactLink = [
   {
     id: 1,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/intent/follow?screen_name=Shiva_shaiiii",
     icon: FaXTwitter,
   },
   {
     id: 2,
     name: "Email",
-    link: "mailto:therinkit@gmail.com",
+    link: "mailto:vrahul.engineer@gmail.com",
     icon: MdOutlineMail,
   },
 ]
