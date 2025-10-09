@@ -24,29 +24,22 @@ const rv_link = [
   {
     id: 1,
     name: "Github",
-    link: "https://github.com/rinkitadhana",
+    link: "https://github.com/meruem09",
     icon: FaGithub,
   },
 
   {
     id: 2,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/intent/follow?screen_name=Shiva_shaiiii",
     icon: FaXTwitter,
   },
 
   {
     id: 3,
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/rinkitadhana",
+    link: "https://www.linkedin.com/in/rahul-varma-1129a9328/",
     icon: FaLinkedinIn,
-  },
-
-  {
-    id: 4,
-    name: "LeetCode",
-    link: "https://leetcode.com/u/rinkitadhana",
-    icon: SiLeetcode,
   },
 ]
 
