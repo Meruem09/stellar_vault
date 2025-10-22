@@ -1,6 +1,6 @@
 import { SimpleTooltip } from "@/components/ui/tooltip";
 import { USER } from "@/features/profile/data/user";
-import { cn } from "@/lib/utils";
+import { cn } from "@/src/lib/utils";
 import { FlipSentences } from "@/registry/flip-sentences";
 import { VerifiedIcon } from "./verified-icon";
 
