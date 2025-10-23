@@ -10,7 +10,6 @@ export function About() {
       <PanelHeader>
         <PanelTitle>About</PanelTitle>
       </PanelHeader>
-
       <PanelContent>
         <Prose>
           <Markdown>{USER.about}</Markdown>
