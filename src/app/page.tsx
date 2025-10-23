@@ -1,20 +1,20 @@
 import dayjs from "dayjs";
 import type { ProfilePage as PageSchema, WithContext } from "schema-dts";
 
-import { About } from "@/features/profile/components/about";
-import { Awards } from "@/features/profile/components/awards";
-import { Blog } from "@/features/profile/components/blog";
-import { Brand } from "@/features/profile/components/brand";
-import { Certifications } from "@/features/profile/components/certifications";
-import { Experiences } from "@/features/profile/components/experiences";
-import { GitHubContributions } from "@/features/profile/components/github-contributions";
-import { Overview } from "@/features/profile/components/overview";
-import { ProfileCover } from "@/features/profile/components/profile-cover";
-import { ProfileHeader } from "@/features/profile/components/profile-header";
-import { Projects } from "@/features/profile/components/projects";
-import { SocialLinks } from "@/features/profile/components/social-links";
-import { TeckStack } from "@/features/profile/components/teck-stack";
-import { USER } from "@/features/profile/data/user";
+import { About } from "@/src/features/profile/components/about";
+import { Awards } from "@/src/features/profile/components/awards";
+import { Blog } from "@/src/features/profile/components/blog";
+import { Brand } from "@/src/features/profile/components/brand";
+import { Certifications } from "@/src/features/profile/components/certifications";
+import { Experiences } from "@/src/features/profile/components/experiences";
+import { GitHubContributions } from "@/src/features/profile/components/github-contributions";
+import { Overview } from "@/src/features/profile/components/overview";
+import { ProfileCover } from "@/src/features/profile/components/profile-cover";
+import { ProfileHeader } from "@/src/features/profile/components/profile-header";
+import { Projects } from "@/src/features/profile/components/projects";
+import { SocialLinks } from "@/src/features/profile/components/social-links";
+import { TeckStack } from "@/src/features/profile/components/teck-stack";
+import { USER } from "@/src/features/profile/data/user";
 import { cn } from "@/src/lib/utils";
 
 export default function Page() {

@@ -1,6 +1,6 @@
-import { Markdown } from "@/components/markdown";
-import { Prose } from "@/components/ui/typography";
-import { USER } from "@/features/profile/data/user";
+import { Markdown } from "@/src/components/markdown";
+import { Prose } from "@/src/components/ui/typography";
+import { USER } from "@/src/features/profile/data/user";
 
 import { Panel, PanelContent, PanelHeader, PanelTitle } from "./panel";
 
